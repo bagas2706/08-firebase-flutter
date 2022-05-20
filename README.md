@@ -12,7 +12,7 @@ Prodi D3-MI<br>
     <img src="img/1.jpeg" width="300">
 </span>
 <span>
-    <img src="img/.jpeg" width="300">
+    <img src="img/2.jpeg" width="300">
 </span>
 <span>
     <img src="img/3.jpeg" width="300">
